@@ -1,2 +1,2 @@
-# Android-Pirate-Game
-This is an Android Pirate Game for my Capstone Project
+# Borsalino's Revenge Privacy Policy
+- This si the privacy policy created for my Pirate Android Game
